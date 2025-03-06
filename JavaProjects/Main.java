@@ -12,10 +12,4 @@ public class Main {
             Ajutor.afisare();
         }else if(str.equals("info")){
             Ajutor.info();
-        }else if(str.equals("exit")){
-            System.exit(0);
-        }
-
-        scanner.close();
-    }
-}
+        }else if(str.equals("exit")){*
